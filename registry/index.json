@@ -1,1 +1,8 @@
-{}
+{
+  "com.example.hub-greeter/v1.0.0": {
+    "filename": "hub-greeter-v1.sphere",
+    "description": "A public greeter example from SphereHub.",
+    "author": "SphereFounders",
+    "hash_sha256": "2510f36aba69f77a712b07c2a94eee9be7c8863a6004baf8162899cf9a4dab3f"
+  }
+}
