@@ -4,7 +4,7 @@
     "description": "A public greeter example from SphereHub.",
     "author": "SphereFounders",
     "hash_sha256": "e4bc78411a17f90a1beadae291cf45b59e7dfb885213025ae595f5bddd931cb5"
-  }
+  },
  "com.spherehub.utils.static-server/v1.0.0": {
      "filename": "com.spherehub.utils.static-server_v1.0.0.sphere",
      "description": "A simple static HTTP server to serve files from the current directory",
