@@ -1,0 +1,11 @@
+id = "com.spherehub.utils.static-server/v1.0.0"
+entrypoint = """
+echo "Sphere Static Server v1.0.0"
+echo "Serving content from current working directory..."
+echo "Access at http://0.0.0.0:8000 or http://localhost:8000"
+echo "Press Ctrl+C to stop server."
+# This uses Python's built-in HTTP server.
+# It serves files from the directory where this command is run.
+# The '-d .' explicitly tells some versions to serve the current dir.
+python3 -m http.server 8000 -d . 
+"""
